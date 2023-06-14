@@ -1,5 +1,6 @@
 # AWS_Jam_Lost_In_Translation
-Repo for AWS Jam Challenge - Lost In Tranlation Solution
+Repo for AWS Jam Challenge - Lost In Tranlation Solution  
+Category : Machine Learning  
 
 Task 1 : Copy CSV File from s3 bucket to notebook using AWS S3   
 Task 2 : Determine language that each review is written in using AWS Comprehend  
